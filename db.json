@@ -1,0 +1,53 @@
+{
+  "heros": [
+    {
+      "name": "Batman",
+      "powers": "Rich, Bike,Batmobile",
+      "id": "1"
+    },
+    {
+      "name": "Superman",
+      "powers": "Strong , Powerful",
+      "id": "2"
+    },
+    {
+      "name": "IronMan",
+      "powers": "Entrepreneur, playboy",
+      "id": "3"
+    },
+    {
+      "name": "Thor",
+      "link": "../assets/super_1.jpg",
+      "powers": "God,Hammer",
+      "id": "4"
+    },
+    {
+      "name": "Thanos",
+      "powers": "Mercyful,Visionary",
+      "id": "5"
+    },
+    {
+      "name": "Spiderman",
+      "link": "../assets/spiderman.jpg",
+      "powers": "Shooting Webs, Agile",
+      "id": "6"
+    },
+    {
+      "name": "Doctor-Strange",
+      "powers": "Teleportation,Magic",
+      "id": "7"
+    },
+    {
+      "name": "Captain-America",
+      "link": "../assets/captain-america.jpg",
+      "powers": "Super-soldier, endurance",
+      "id": "8"
+    },
+    {
+      "name": "Wonder-Woman",
+      "link": "../assets/wonder-woman.jpg",
+      "powers": "Speed, Good-looking",
+      "id": "9"
+    }
+  ]
+}
